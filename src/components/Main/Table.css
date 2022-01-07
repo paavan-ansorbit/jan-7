@@ -1,0 +1,13 @@
+.maintable {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(136, 161, 161);
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.maintable div {
+  background-color: rgb(204, 167, 121);
+  height: 2rem;
+  margin: 1em;
+}
